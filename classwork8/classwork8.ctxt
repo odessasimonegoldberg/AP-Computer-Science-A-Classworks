@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=classwork8
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=size\ isFriday
+comment2.target=boolean\ raceToday(int,\ boolean)
+comment3.params=number
+comment3.target=int\ numValue(int)
+numComments=4
