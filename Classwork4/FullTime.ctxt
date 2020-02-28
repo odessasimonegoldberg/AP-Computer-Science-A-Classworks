@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FullTime
+comment1.params=name\ pub\ words\ gen\ sal\ tour
+comment1.target=FullTime(java.lang.String,\ boolean,\ int,\ java.lang.String,\ int,\ boolean)
+comment2.params=
+comment2.target=void\ takeRetreat()
+comment3.params=
+comment3.target=void\ teachWorkshop()
+comment4.params=
+comment4.target=void\ hirePublicist()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
